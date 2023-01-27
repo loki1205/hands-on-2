@@ -21,7 +21,7 @@ body{
     height: 70vh;
     color:white;
     background-position-x:80%;
-    background:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("assets/pexels-stephan-seeber-1054218.jpg");
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("assets/pexels-stephan-seeber-1054218.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: 50%;
